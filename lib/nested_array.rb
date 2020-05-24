@@ -58,7 +58,7 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
      
   matrix[0][2] = "Lemons"
- return matrix
+ return result matrix
       #binding.pry
 end
 
