@@ -23,7 +23,7 @@ def assembled_matrix
   produce_storage_room =[[
   "Grapefruit",
   "Pineapple",
-  "Oranges",
+  "Lemons",
   "Watermelon",
   "Eggplant"],
   [
